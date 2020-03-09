@@ -33,7 +33,7 @@ if( ! defined( 'ABSPATH' ) ) {
     die;
 }
 
-// global $table_prefix;
+// global $table_prefix;1
 
 define( 'BRBTR_PLUGIN_VERSION', '1.0.0' );
 define( 'BRBTR_PLUGIN_DIR', plugin_dir_path( __FILE__ ) );
